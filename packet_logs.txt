@@ -1,0 +1,42 @@
+2024-06-10 08:19:49,838 Timestamp: 2024-06-10 08:19:49.838636 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:29,827 Timestamp: 2024-06-10 08:20:29.827842 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:35,784 Timestamp: 2024-06-10 08:20:35.784020 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:35,786 Timestamp: 2024-06-10 08:20:35.785982 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:36,196 Timestamp: 2024-06-10 08:20:36.196644 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:36,443 Timestamp: 2024-06-10 08:20:36.442743 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:36,802 Timestamp: 2024-06-10 08:20:36.802248 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:36,804 Timestamp: 2024-06-10 08:20:36.804268 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:36,805 Timestamp: 2024-06-10 08:20:36.805132 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:36,947 Timestamp: 2024-06-10 08:20:36.947114 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:37,620 Timestamp: 2024-06-10 08:20:37.619642 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:38,703 Timestamp: 2024-06-10 08:20:38.702898 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:38,720 Timestamp: 2024-06-10 08:20:38.719625 | Source IP: 192.168.1.20 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:20:45,294 Timestamp: 2024-06-10 08:20:45.293709 | Source IP: 192.168.1.22 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:20:45,294 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+2024-06-10 08:20:49,901 Timestamp: 2024-06-10 08:20:49.901080 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:21:06,291 Timestamp: 2024-06-10 08:21:06.291678 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:06,291 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Google Chrome/125.0.6422.142 Windows\r\n\r\n'
+2024-06-10 08:21:06,296 Timestamp: 2024-06-10 08:21:06.296017 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:06,296 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Microsoft Edge/125.0.2535.92 Windows\r\n\r\n'
+2024-06-10 08:21:07,294 Timestamp: 2024-06-10 08:21:07.293986 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:07,294 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Google Chrome/125.0.6422.142 Windows\r\n\r\n'
+2024-06-10 08:21:07,299 Timestamp: 2024-06-10 08:21:07.299419 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:07,299 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Microsoft Edge/125.0.2535.92 Windows\r\n\r\n'
+2024-06-10 08:21:08,297 Timestamp: 2024-06-10 08:21:08.296203 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:08,298 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Google Chrome/125.0.6422.142 Windows\r\n\r\n'
+2024-06-10 08:21:08,300 Timestamp: 2024-06-10 08:21:08.300039 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:08,300 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Microsoft Edge/125.0.2535.92 Windows\r\n\r\n'
+2024-06-10 08:21:09,298 Timestamp: 2024-06-10 08:21:09.297816 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:09,298 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Google Chrome/125.0.6422.142 Windows\r\n\r\n'
+2024-06-10 08:21:09,299 Timestamp: 2024-06-10 08:21:09.299274 | Source IP: 192.168.1.26 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:09,299 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\nUSER-AGENT: Microsoft Edge/125.0.2535.92 Windows\r\n\r\n'
+2024-06-10 08:21:09,859 Timestamp: 2024-06-10 08:21:09.859160 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:21:29,804 Timestamp: 2024-06-10 08:21:29.804552 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:21:45,270 Timestamp: 2024-06-10 08:21:45.269988 | Source IP: 192.168.1.22 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:45,270 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+2024-06-10 08:21:45,272 Timestamp: 2024-06-10 08:21:45.272047 | Source IP: 192.168.1.22 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:45,272 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+2024-06-10 08:21:45,273 Timestamp: 2024-06-10 08:21:45.273238 | Source IP: 192.168.1.22 -> Destination IP: 239.255.255.250 | Protocol: UDP
+2024-06-10 08:21:45,273 Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+2024-06-10 08:21:49,796 Timestamp: 2024-06-10 08:21:49.796634 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
+2024-06-10 08:22:09,787 Timestamp: 2024-06-10 08:22:09.787087 | Source IP: 192.168.1.22 -> Destination IP: 224.0.0.251 | Protocol: UDP
